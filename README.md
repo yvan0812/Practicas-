@@ -1,2 +1,2 @@
-# Practicas-
+# Qrcode-
 Practicas de codigo
